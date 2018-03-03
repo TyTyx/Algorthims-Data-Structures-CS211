@@ -9,4 +9,4 @@ Written in Java.
  - Cryptography
  - Hash Tables
  - Graphs & Weighted Graphs
- - String seraching Algorithms
+ - String Seraching Algorithms
